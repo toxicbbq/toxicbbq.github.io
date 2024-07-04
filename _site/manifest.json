@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "Toxic BBQ",
+  "short_name": "ToxicBBQ",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
