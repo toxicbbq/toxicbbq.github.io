@@ -1893,4 +1893,10 @@ pre code {
   overflow-x: scroll;
 }
 
+.container {
+  width: 95%;
+  max-width: 1800px;
+  margin: 0 auto;
+}
+
 /*# sourceMappingURL=styles.css.map */

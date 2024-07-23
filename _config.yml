@@ -38,6 +38,8 @@ navigation_header:
   url: /
 - title: Volunteering
   url: /volunteering/
+- title: Archive
+  url: /archive/
 - title: Updates
   url: /updates/
 
@@ -49,7 +51,7 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Updates
     output: true
     description: "Information about Toxic BBQ."
     feature_image: "/assets/photos/lineup.jpg"

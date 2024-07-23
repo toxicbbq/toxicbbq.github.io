@@ -38,4 +38,11 @@ $monospacetype: (
   cap-height: 0.68
 ) !default;
 
+
 @import "alembic";
+
+.container {
+  width: 95%;
+  max-width: 1800px;
+  margin: 0 auto;
+}

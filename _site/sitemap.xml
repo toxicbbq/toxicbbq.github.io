@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/history/2021/11/15/abbrev-history/</loc>
+<loc>http://localhost:4000/history,%20sideshows/2021/11/15/abbrev-history/</loc>
 <lastmod>2021-11-15T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sideshows/2021/11/15/planning-sideshow-tips/</loc>
+<lastmod>2021-11-15T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/sideshows/2021/11/16/community-building/</loc>
+<lastmod>2021-11-16T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/archive/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/</loc>
