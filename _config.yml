@@ -38,10 +38,12 @@ navigation_header:
   url: /
 - title: Volunteering
   url: /volunteering/
-- title: Archive
-  url: /archive/
 - title: Updates
   url: /updates/
+- title: Archive
+  url: /archive/
+- title: Donate
+  url: https://donate.toxicbbq.org
 
 # Footer nav
 navigation_footer:
@@ -54,7 +56,7 @@ collections:
     title: Updates
     output: true
     description: "Information about Toxic BBQ."
-    feature_image: "/assets/photos/lineup.jpg"
+    feature_image: "/assets/photos/updates_banner.jpg"
 
 # Collection settings
 defaults:
@@ -70,6 +72,9 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  32: '/assets/logos/favicon.ico'
 
 # Fonts
 fonts:

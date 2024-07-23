@@ -2,19 +2,17 @@
 title: Toxic BBQ @ DEF CON 32
 feature_image: "/assets/photos/home_banner.png"
 ---
+{% include figure.html image="/assets/logos/2024_banner.png" %}
 
-Toxic BBQ @ DEF CON 32 will be held...
-
-from **15:00 to 21:00** on Thursday, August 8 \\
+**15:00 to 21:00** on Thursday, August 8 \\
 at **Sunset Park, Foxtail Pavilion** [(36.0636, -115.1178)](https://www.google.com/maps/place/36.0636,-115.1178)
-{: style="font-size: 90%; text-align: center;"}
+{: style="font-size: 120%; text-align: center;"}
 
 The humans of Vegas invite you to this year’s unofficial welcome party. Join us off-Strip in the shade of Sunset Park for a heat-blasted hangout. Burgers, dogs, and meatless options are provided. Attendees pitch in to make everything else happen.
 
 Contribute more food and drinks, staff the grill, join supply runs, or donate cash to help cover costs. Relax under the trees and conversate with new and old friends. Come be a part of what makes this cookout something to remember year after year.
 
 Grab flyers from an Info Booth, and watch for #ToxicBBQ for the latest news. First time? Check out [How Does This Work](/volunteering). If you want to volunteer for Toxic BBQ in any capacity, check out this [Google Form](https://forms.gle/H4QMN56wChZwmQNQA).
-
 
 ## Events
 In addition to the grill, Toxic is a gathering place for hackers looking to plan the rest of their weekend. Start your carnival off right with these side-shows:

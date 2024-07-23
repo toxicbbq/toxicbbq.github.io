@@ -4,6 +4,13 @@
   "short_name": "ToxicBBQ",
   "theme_color": "#24292e",
   "background_color": "#ffffff",
+  "icons": [
+      {
+        "src": "/assets/logos/favicon.ico",
+        "sizes": "32x32"
+      }
+      
+    ],
   "start_url": "/",
   "display": "standalone"
 }
