@@ -33,5 +33,5 @@ Planning on attending? Here's the rough schedule for the BBQ:
 ## Stay Updated!
 Watch #ToxicBBQ on [Twitter](https://www.twitter.com/search?q=%23ToxicBBQ), [Bluesky](https://bsky.app/search?q=%23toxicbbq), and [defcon.social](https://defcon.social/)...or come back here for the latest news. Want to help plan the next Toxic BBQ? Reach out!
 - On Reddit: /u/DuncanYoudaho
-- On Twitter, Bluesky, and DEFCON.social: @DuncanYoudaho
+- On Twitter, Bluesky, and DEFCON.social: DuncanYoudaho
 - On the DEF CON Forums: Tangential
