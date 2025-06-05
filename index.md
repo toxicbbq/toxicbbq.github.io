@@ -1,16 +1,14 @@
 ---
-title: Toxic BBQ @ DEF CON 32
+title: Toxic BBQ @ DEF CON 33
 feature_image: "/assets/photos/home_banner.png"
 ---
 {% include figure.html image="/assets/logos/2024_banner.png" %}
 
-**15:00 to 21:00** on Thursday, August 8 \\
+**15:00 to 21:00** on Thursday, August 7 \\
 at **Sunset Park, Foxtail Pavilion** [(36.0636, -115.1178)](https://www.google.com/maps/place/36.0636,-115.1178)
 {: style="font-size: 120%; text-align: center;"}
 
-The humans of Vegas invite you to this year’s unofficial welcome party. Join us off-Strip in the shade of Sunset Park for a heat-blasted hangout. Burgers, dogs, and meatless options are provided. Attendees pitch in to make everything else happen.
-
-Contribute more food and drinks, staff the grill, join supply runs, or donate cash to help cover costs. Relax under the trees and conversate with new and old friends. Come be a part of what makes this cookout something to remember year after year.
+Join the humans of Vegas at the next inCARNEtion of your Thursday DEF CON welcome party.  Enjoy fewer walls and more garden as we meet AFK in the shade of Sunset Park. Burgers and dogs are provided; you bring everything else (specialties, drinks, labor, and donations). We're expanding our grills to over 40 sq ft of heat with space for veggies and your own personal creations.
 
 Grab flyers from an Info Booth, and watch for #ToxicBBQ for the latest news. First time? Check out [How Does This Work](/volunteering). If you want to volunteer for Toxic BBQ in any capacity, check out this [Google Form](https://forms.gle/H4QMN56wChZwmQNQA).
 
@@ -21,7 +19,6 @@ In addition to the grill, Toxic is a gathering place for hackers looking to plan
 - Homebrew Exhibition: Bring your finest bitters, ciders, wine, and assorted preparations for a fermented face off.
 - Weird Jerky: You can buy anything in Vegas, like dehydrated meat of questionable taste and origin. Spin the Wheel. Will it be ostrich, earthworm, or something even better?
 - Open Grill: Bring your favorite and most exotic cuts, then grill it just how you like on our expanded grill space.
-
 
 ## Important Times
 Planning on attending? Here's the rough schedule for the BBQ:
