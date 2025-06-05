@@ -42,6 +42,8 @@ navigation_header:
   url: /updates/
 - title: Archive
   url: /archive/
+- title: Gallery
+  url: /gallery/
 - title: Donate
   url: https://donate.toxicbbq.org
 
