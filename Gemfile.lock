@@ -29,6 +29,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    exifr (1.4.1)
     ffi (1.17.2-aarch64-linux-gnu)
     ffi (1.17.2-aarch64-linux-musl)
     ffi (1.17.2-arm-linux-gnu)
@@ -129,6 +130,9 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
+    mini_magick (5.2.0)
+      benchmark
+      logger
     minitest (5.25.5)
     nokogiri (1.18.8-aarch64-linux-gnu)
       racc (~> 1.4)
@@ -202,6 +206,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  exifr
   jekyll (~> 4.1)
   jekyll-commonmark (~> 1.4.0)
   jekyll-feed (~> 0.15)
@@ -213,6 +218,7 @@ DEPENDENCIES
   jekyll-seo-tag (~> 2.8.0)
   jekyll-sitemap (~> 1.4.0)
   jemoji (~> 0.12)
+  mini_magick
   wdm (~> 0.2.0)
 
 BUNDLED WITH

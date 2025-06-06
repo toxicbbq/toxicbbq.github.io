@@ -1,0 +1,22 @@
+{
+  "name": "toxicbbq.github.io",
+  "version": "1.0.0",
+  "description": "Toxic BBQ Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toxicbbq/toxicbbq.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toxicbbq/toxicbbq.github.io/issues"
+  },
+  "homepage": "https://github.com/toxicbbq/toxicbbq.github.io#readme",
+  "dependencies": {
+    "lightgallery": "^2.8.3"
+  }
+}
