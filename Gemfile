@@ -11,4 +11,4 @@ gem "jekyll-commonmark", "~> 1.4.0"
 gem "jekyll-include-cache", "~> 0.2"
 gem "jemoji", "~> 0.12"
 gem "jekyll-remote-theme", "~> 0.3"
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'wdm', '>= 0.1.0', platforms: :ruby
