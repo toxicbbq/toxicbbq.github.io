@@ -49,6 +49,8 @@ jobs:
           node-version: 20
       - name: Install Node.js dependencies
         run: npm install
+      - name: Setup ImageMagick
+        uses: mfinelli/setup-imagemagick@v6.0.1
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
