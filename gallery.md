@@ -1,26 +1,15 @@
 ---
-layout: page
+layout: layout_with_gallery
 title: Image Gallery
 permalink: /gallery/
 ---
 
 <div class="gallery">
-  {% for image in site.static_files %}
-    {% if image.path contains 'assets/gallery' %}
-      <img src="{{ image.path | relative_url }}" alt="Gallery image" />
-    {% endif %}
-  {% endfor %}
+<h1>DC32</h1>
+  {% include album.html albumname="DC32" %}
 </div>
 
-<style>
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-.gallery img {
-  width: auto;
-  height: auto;
-  border-radius: 8px;
-}
-</style>
+<div class="gallery">
+<h1>DC31</h1>
+  {% include album.html albumname="DC31" %}
+</div>
