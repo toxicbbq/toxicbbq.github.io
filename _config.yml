@@ -93,3 +93,7 @@ mini_magick:
     resize: "320x240^"
     gravity: "center"
     extent: "320x240"
+
+# Silence Dependency Warnings
+sass:
+  quiet_deps: true
