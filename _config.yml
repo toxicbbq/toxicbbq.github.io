@@ -91,7 +91,7 @@ mini_magick:
     source: assets/images/gallery
     destination: thumbnails/assets/images/gallery
     resize: "320x240^"
-    gravity: "center"
+    gravity: "north"
     extent: "320x240"
 
 # Silence Dependency Warnings
