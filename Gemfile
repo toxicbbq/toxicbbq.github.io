@@ -14,3 +14,4 @@ gem "jekyll-remote-theme", "~> 0.3"
 gem 'wdm', "~> 0.2.0", platforms: [:x64_mingw]
 gem "mini_magick"
 gem "exifr"
+gem 'jekyll-node-module'
