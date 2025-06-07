@@ -19,6 +19,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
+- jekyll-node-module
 
 # Site settings
 url: 'https://toxicbbq.org'
@@ -38,6 +39,8 @@ navigation_header:
   url: /
 - title: Volunteering
   url: /volunteering/
+- title: Homebrew
+  url: /homebrew/
 - title: Updates
   url: /updates/
 - title: Archive
@@ -97,3 +100,20 @@ mini_magick:
 # Silence Dependency Warnings
 sass:
   quiet_deps: true
+
+# Node Modules
+node_modules:
+  modules_dir: node_modules
+  assets:
+    js: assets/scripts
+    css: assets/styles
+  copy:
+    - source: lightgallery
+      target: assets/scripts
+    - source: lightgallery/css
+      target: assets/styles
+    - source: lightgallery/fonts
+      target: assets/fonts
+    - source: lightgallery/images
+      target: assets/images
+  
