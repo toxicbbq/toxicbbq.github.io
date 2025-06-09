@@ -4,8 +4,6 @@ categories:
 - Sideshows
 ---
 
-
-### Preface
 Few were as excited to talk about organizing Toxic BBQ as Sc0tland, Las Vegas Native and early DEF CON attendee, known on Twitter as [@level2three](https://x.com/level2three). Other than Toxic, she has been involved in Scav Hunt, Toorcamp, and countless other hacker hijinx. She’s eager to share her experiences building an event to be proud of. The following is based on notes from interviews on this very topic.\\
 **--DuncanYoudaho**
 
