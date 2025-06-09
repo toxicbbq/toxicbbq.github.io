@@ -5,7 +5,6 @@ categories:
 feature_image: "/assets/posts/abbrev-history/header.png"
 ---
 
-## Introduction
 DEF CON’s unofficial launch party is a sometimes-quiet cookout that welcomes all, n00b and 1337 alike. This prelude to the cacophony and telephony grew with its host convention to a gathering of hundreds with grill temps and daytime highs to match. If each DEF CON is a hacker carnival, Toxic BBQ is its first sideshow.
 
 We celebrated the 15th year of grill and chill (and a hybrid return to DEF CON amidst a turbulent pandemic) by collecting tips and tricks for running a sideshow of your very own. We also caught up with past organizers of Toxic and similar events to get their perspective on building community and culture in the Information Age. We hope that our masticarious adventures delight and inspire you to build (or rebuild) a culture of care and friendship at DEF CON and closer to home.

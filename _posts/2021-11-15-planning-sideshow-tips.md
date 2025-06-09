@@ -4,7 +4,6 @@ categories:
 - Sideshows
 ---
 
-## Preface
 The path from “there’s this thing we do...” to conference-legend can be rocky. We’ve collected tips from our notes and interviews into a firehose of recommendations for you and your team. We hope these will nudge you from *wishing* to *holding* your “thing-apart” for everyone’s enjoyment.
 
 ### Location

@@ -3,6 +3,7 @@ layout: layout_with_gallery
 title: Image Gallery
 permalink: /gallery/
 ---
+We strive to make sure all subjects have given their consent before posting photos. See yourself and don't want to? [Send us a note.](mailto:info@toxicbbq.org)
 
 <div class="gallery">
 <h1>DC32</h1>
