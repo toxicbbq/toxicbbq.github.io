@@ -2,7 +2,10 @@
 title: Toxic BBQ @ DEF CON 33
 feature_image: "/assets/photos/home_banner.png"
 ---
-*Updated 2025 Jun 08*
+*Updated 2025 Jun 16*
+
+[T-Shirt Sale has begun! Order Now!](https://donate.toxicbbq.org)
+{: style="font-size: 120%; text-align: center;"}
 
 {% include figure.html image="/assets/logos/Toxic2025.png" alt="ToxicBBQ 2025 Logo, a Gnome with a spatula stands in front of a grill that has a huge flame coming out of it. The text below reads Toxc BBQ 2025 and is in a font that ooks like it is crafted out of leaves." width=300 %}
 
