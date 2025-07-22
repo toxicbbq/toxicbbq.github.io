@@ -2,9 +2,9 @@
 title: Toxic BBQ @ DEF CON 33
 feature_image: "/assets/photos/home_banner.png"
 ---
-*Updated 2025 Jun 16*
+*Updated 2025 Jul 22*
 
-[T-Shirt Sale has begun! Order Now!](https://donate.toxicbbq.org)
+[Dontating? Click Here!](https://donate.toxicbbq.org)
 {: style="font-size: 120%; text-align: center;"}
 
 {% include figure.html image="/assets/logos/Toxic2025.png" alt="ToxicBBQ 2025 Logo, a Gnome with a spatula stands in front of a grill that has a huge flame coming out of it. The text below reads Toxc BBQ 2025 and is in a font that ooks like it is crafted out of leaves." width=300 %}
@@ -27,11 +27,10 @@ In addition to the grill, Toxic is a gathering place for hackers looking to plan
 - Open Grill: Bring your favorite and most exotic cuts, then grill it just how you like on our expanded grill space.
 - Have an Idea? It's a big park. Reach out and we'll find a way to make it happen
 
-
 ## Important Times
 Planning on attending? Here's the rough schedule for the BBQ:
-- **1PM** // Supply Run departs from main Info Booth
-- **3PM** // The beacons fires are lit, Gondor Toxic calls for aid burgers!
+- **1PM** // Supply Run departs from under the giant video wall at the main Info Booth
+- **3PM** // The beacons fires are lit, Toxic calls for burgers!
 - **9PM** // Clean-up starts
 - **10PM** // We have vacated the park
 
@@ -42,4 +41,4 @@ Watch #ToxicBBQ on [Bluesky](https://bsky.app/search?q=%23toxicbbq), [defcon.soc
 - On the DEF CON Forums: Tangential
 
 ## Fundraising
-For off-season fundraising, we're trying Zazzle. [Check out merch and get stickers all by yourself!](https://www.zazzle.com/store/toxic_bbq) Slake your thirst for merch as you pine for the heat of the grill. We get a tiny cut to help us keep the BBQ running smoothly. Anything left is donated to the [EFF](https://www.eff/org).
+Thanks to everyone that ordered shirts through our pre-BBQ fundraiser at CustomInk! Missed it? [Check out the Zazzle for merch and stickers](https://www.zazzle.com/store/toxic_bbq). We can't guarantee any of these will arrive by the BBQ, but we get a tiny cut to help us keep it running. As always, anything left is donated to the [EFF](https://www.eff.org).
