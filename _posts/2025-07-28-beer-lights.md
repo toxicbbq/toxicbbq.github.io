@@ -2,7 +2,7 @@
 title: Beer Lights - 10 Year Anniversary Post
 categories:
 - History
-feature_image: "/assets/posts/ofbc/OFBC-BANNER.jpg"
+feature_image: "/assets/posts/ofbc/OFBC-Banner.jpg"
 ---
 
 _Note: Originally appeared on [DuncanYoudaho's blog](https://www.danlearnsstuff.com/p/one-fierce-beer-coaster.html). But half the links are rotted. So we gave it a spruce up and reproduced it here for posterity on its 10th annivrsary._
