@@ -8,6 +8,11 @@ We strive to make sure all subjects have given their consent before posting phot
 See yourself and don't want to? [Send us a note.](mailto:info@toxicbbq.org)
 
 <div class="gallery">
+<h1>DC33 - 2025</h1>
+  {% include album.html albumname="DC33" %}
+</div>
+
+<div class="gallery">
 <h1>DC32 - 2024</h1>
   {% include album.html albumname="DC32" %}
 </div>
