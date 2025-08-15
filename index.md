@@ -5,8 +5,22 @@ feature_image: "/assets/photos/home_banner.png"
 [Dontating? Click Here!](https://donate.toxicbbq.org) -- Missed the fundraiser? [Check out our Zazzle for shirts and stickers (can't guarantee pre-con delivery)](https://www.zazzle.com/store/toxic_bbq)
 {: style="font-size: 120%; text-align: center;"}
 
-{% include figure.html image="/assets/logos/Toxic2025.png" alt="ToxicBBQ 2025 Logo, a Gnome with a spatula stands in front of a grill that has a huge flame coming out of it. The text below reads Toxc BBQ 2025 and is in a font that ooks like it is crafted out of leaves." width=300 %}
+{% include figure.html image="/assets/logos/Toxic2025.png" alt="ToxicBBQ 2025 Logo, a Gnome with a spatula stands in front of a grill that has a huge flame coming out of it. The text below reads Toxc BBQ 2025 and is in a font that looks like words are crafted out of leaves." width=300 %}
 
+{: style="font-size: 150%; text-align: center;"}
+What a turnout! We saw over 1000 of you, and that blows our collective minds. Here are the stats for #ToxicBBQ 2025:
+
+- 810 burgers (+80 meatless)
+- 500 hot dogs
+- 100 lbs tomatoes, onion, lettuce
+- 40 lbs grapes, corn, other veg
+- 4 actual dogs
+- 1 vole
+- Plus Peppercon, Hot Ones flights, Cheesecon and a fuel pump repair on site!
+
+We understand the line turned back some, the heat kept others from coming out, but we’re already planning on how to make next year even better. QSO party? More samples in the line? Maybe some lab-grown meat to try? Who knows what we’ll see, or what you’ll bring. Thanks for making this one awesome!
+
+{: style="font-size: 120%; text-align: center;"}
 **15:00 to 21:00** on Thursday, August 7 \\
 at **Sunset Park, Foxtail Pavilion** [(36.0636, -115.1178)](https://www.google.com/maps/place/36.0636,-115.1178)
 {: style="font-size: 120%; text-align: center;"}
