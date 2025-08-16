@@ -18,7 +18,7 @@ What a turnout! We saw over 1000 of you, and that blows our collective minds. He
 - 1 vole
 - Plus Peppercon, Hot Ones flights, Cheesecon and a fuel pump repair on site!
 
-We understand the line turned back some, the heat kept others from coming out, but we’re already planning on how to make next year even better. QSO party? More samples in the line? Maybe some lab-grown meat to try? Who knows what we’ll see, or what you’ll bring. Thanks for making this one awesome!
+Pics are in the [gallery](/gallery/). We understand the line turned back some, the heat kept others from coming out, but we’re already planning on how to make next year even better. QSO party? More samples in the line? Maybe some lab-grown meat to try? Who knows what we’ll see, or what you’ll bring. Thanks for making this one awesome!
 
 {: style="font-size: 120%; text-align: center;"}
 **15:00 to 21:00** on Thursday, August 7 \\
