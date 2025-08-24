@@ -120,21 +120,21 @@ feature_image: "/assets/photos/archive_banner.jpg"
 <div class="table-cell">2014</div>
 <div class="table-cell"><a href="https://forum.defcon.org/node/14932">Forum link</a></div>
 <div class="table-cell">---</div>
-<div class="table-cell">&nbsp;</div>
+<div class="table-cell">Cancelled due to rain; most attendees bivouacked at In-n-Out.</div>
 </div>
 <div class="table-row">
 <div class="table-cell">DC23</div>
 <div class="table-cell">2015</div>
 <div class="table-cell"><a href="https://forum.defcon.org/node/220748">Forum link</a></div>
 <div class="table-cell">---</div>
-<div class="table-cell">&nbsp;</div>
+<div class="table-cell">Final year hosted by Graverobber</div>
 </div>
 <div class="table-row">
 <div class="table-cell">DC24</div>
 <div class="table-cell">2016</div>
 <div class="table-cell"><a href="https://forum.defcon.org/node/223494">Forum link</a></div>
 <div class="table-cell">---</div>
-<div class="table-cell">Cancelled due to rain; most attendees bivouacked at In-n-Out.</div>
+<div class="table-cell">First year hosted by The Humans of Vegas</div>
 </div>
 <div class="table-row">
 <div class="table-cell">DC25</div>
@@ -182,7 +182,14 @@ feature_image: "/assets/photos/archive_banner.jpg"
 <div class="table-cell">DC32</div>
 <div class="table-cell">2024</div>
 <div class="table-cell"><a href="https://forum.defcon.org/node/249587">Forum link</a></div>
-<div class="table-cell"><a href="/">Homepage</a></div>
+<div class="table-cell"><a href="https://web.archive.org/web/20240909090903/https://www.toxicbbq.org/2024/06/toxic-bbq-at-def-con-32.html">Archived homepage</a></div>
+<div class="table-cell">&nbsp;</div>
+</div>
+<div class="table-row">
+<div class="table-cell">DC33</div>
+<div class="table-cell">2025</div>
+<div class="table-cell"><a href="https://www.reddit.com/r/Defcon/comments/1ldd9w3/toxic_bbq_2025_gnome_more_walled_gardens/">Reddit Link</a></div>
+<div class="table-cell"><a href="https://web.archive.org/web/20250724031432/https://toxicbbq.org/">Archived homepage</a></div>
 <div class="table-cell">&nbsp;</div>
 </div>
 </div>
