@@ -56,3 +56,8 @@ See yourself and don't want to? [Send us a note.](mailto:info@toxicbbq.org)
 <h1>DC24 - 2016</h1>
   {% include album.html albumname="DC24" %}
 </div>
+
+<div class="gallery">
+<h1>DC23 - 2015</h1>
+  {% include album.html albumname="DC23" %}
+</div>
