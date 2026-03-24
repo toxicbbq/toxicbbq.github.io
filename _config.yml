@@ -39,6 +39,8 @@ navigation_header:
   url: /
 - title: Volunteering
   url: /volunteering/
+- title: Survival
+  url: /survival/
 - title: Homebrew
   url: /homebrew/
 - title: Updates
