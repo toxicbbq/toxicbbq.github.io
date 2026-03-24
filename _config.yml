@@ -43,8 +43,6 @@ navigation_header:
   url: /homebrew/
 - title: Updates
   url: /updates/
-- title: Archive
-  url: /archive/
 - title: Gallery
   url: /gallery/
 - title: Donate
