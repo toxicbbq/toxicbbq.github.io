@@ -39,12 +39,12 @@ navigation_header:
   url: /
 - title: Volunteering
   url: /volunteering/
+- title: Survival
+  url: /survival/
 - title: Homebrew
   url: /homebrew/
 - title: Updates
   url: /updates/
-- title: Archive
-  url: /archive/
 - title: Gallery
   url: /gallery/
 - title: Donate

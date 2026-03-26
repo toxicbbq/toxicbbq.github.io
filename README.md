@@ -4,6 +4,12 @@ This site was created thanks to [p0wnyb0y](https://github.com/p0wnyb0y) and is m
 
 It is a jekyll site. It was created with the starter kit for [Alembic](https://alembic.darn.es/) using github pages theming.
 
+## Licensing And Terms
+
+- Code in this repository is licensed under the [MIT License](LICENSE), unless otherwise noted.
+- Original site content and creative assets are described in [Licensing and Terms](licensing.md).
+- On the published site, the footer text `Toxic BBQ 2026` links to `/licensing/`.
+
 To run it locally
 
 - Run `bundle install` in the main folder
