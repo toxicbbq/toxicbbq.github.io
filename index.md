@@ -31,7 +31,7 @@ At DEF CON? Find a flyer at an Info Booth, and watch for #ToxicBBQ on [the](http
 - **Open Grill**: Bring your favorite and most exotic cuts, then grill it just how you like on our expanded grill space.
 - **Line Samples**: Hot Ones flights, Cheesecon, and the like offer a bevy of interesting treats as you wait for the main event. Want to show off and talk to Hungry Hungry Hackers? Hit us up, and we'll save you a spot.
 - **Barbecued Hams**: A QSO party in the grass. Ham-curious? Come and ask questions wherever you see an antenna.
-- **Lab-grown Meat**: Who says Hackers aren't cultured? For the first time ever, we have been promised a limited supply of cultured smoked salmon from WildTypeFoods. Try this hacker-adjacent foodstuff for yourself. Supplies are extremely limited.
+- **Lab-grown Meat**: Who says Hackers aren't cultured? For the first time ever, we have been promised a limited supply of cultured smoked salmon from [Wild Type Foods](https://www.wildtypefoods.com/). Try this biohacker foodstuff for yourself, but be warned: Supplies are extremely limited.
 - **Have an Idea?** It's a big park. Reach out and we'll find a way to make it happen
 
 ## Important Times
