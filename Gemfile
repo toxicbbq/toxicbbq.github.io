@@ -10,7 +10,7 @@ gem "jekyll-feed", "~> 0.15"
 gem "jekyll-commonmark", "~> 1.4.0"
 gem "jekyll-include-cache", "~> 0.2"
 gem "jemoji", "~> 0.12"
-gem "jekyll-remote-theme", "~> 0.3"
+gem "jekyll-remote-theme", "~> 0.5"
 gem 'wdm', "~> 0.2.0", platforms: [:x64_mingw]
 gem "mini_magick"
 gem "exifr"
