@@ -2,7 +2,7 @@
 title: Toxic BBQ @ DEF CON 34
 feature_image: "/assets/photos/home_banner.png"
 ---
-[Dontating? Click Here!](https://donate.toxicbbq.org) -- Looking for a fundraiser? 2026 Design is TBD. [Check out our Zazzle for shirts and stickers](https://www.zazzle.com/store/toxic_bbq)
+[T-Shirts for 2026 Now Available!!1!!!](https://donate.toxicbbq.org) -- Celebrating 10 years of Human BBQ; pick up at the con. Looking for delivery to your house? [Check out our Zazzle for shirts and stickers](https://www.zazzle.com/store/toxic_bbq)
 {: style="font-size: 120%; text-align: center;"}
 
 {% include figure.html image="/assets/logos/jack.png" alt="ToxicBBQ Logo, a DEF CON jolly roger-style Jack. A smiley skull and bones, but with crossed BBQ tools instead of bones." width=300 %}
