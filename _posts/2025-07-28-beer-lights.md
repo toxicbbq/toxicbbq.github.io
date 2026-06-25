@@ -1,7 +1,5 @@
 ---
 title: Beer Lights - 10 Year Anniversary Post
-categories:
-- History
 feature_image: "/assets/posts/ofbc/OFBC-Banner.jpg"
 ---
 

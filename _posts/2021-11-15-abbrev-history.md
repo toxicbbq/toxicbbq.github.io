@@ -1,7 +1,5 @@
 ---
 title: An Abbreviated History of Toxic BBQ
-categories:
-- History, Sideshows
 feature_image: "/assets/posts/abbrev-history/header.png"
 ---
 
