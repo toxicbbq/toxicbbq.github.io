@@ -2,7 +2,7 @@
 title: Toxic BBQ @ DEF CON 34
 feature_image: "/assets/photos/home_banner.png"
 ---
-[T-Shirts for 2026 Now Available!!1!!!](https://donate.toxicbbq.org) -- Celebrating 10 years of Human BBQ; pick up at the con. Looking for delivery to your house? [Check out our Zazzle for shirts and stickers](https://www.zazzle.com/store/toxic_bbq)
+[T-Shirts for 2026 Now Available!!1!!!](https://donate.toxicbbq.org) -- Celebrating 10 years of Human BBQ; pick up at the con.
 {: style="font-size: 120%; text-align: center;"}
 
 {% include figure.html image="/assets/logos/jack.png" alt="ToxicBBQ Logo, a DEF CON jolly roger-style Jack. A smiley skull and bones, but with crossed BBQ tools instead of bones." width=300 %}
@@ -16,7 +16,7 @@ at **Sunset Park, Foxtail Pavilion** [(Lat: 36.0636, Long: -115.1178)](https://w
 
 With over 50 sq ft of heat, we have plenty of room on the grill for your personal creations. Contribute food and drinks, staff the grill, join supply runs, or donate to help cover cost. Everything left goes to the EFF. Be a part of what makes this cookout something to remember year after year. The only question is: **What are you bringing to Toxic BBQ?**
 
-First time? Check out [How Does This Work](/volunteering). First time in the Vegas sun? Check out our [Survival Guide](/survival.md). If you want to volunteer for Toxic BBQ in any capacity, check out this [Google Form](https://forms.gle/H4QMN56wChZwmQNQA).
+First time? Check out [How Does This Work](/volunteering). First time in the Vegas sun? Check out our [Survival Guide](/survival). If you want to volunteer for Toxic BBQ in any capacity, check out this [Google Form](https://forms.gle/H4QMN56wChZwmQNQA).
 
 At DEF CON? Find a flyer at an Info Booth, and watch for #ToxicBBQ on [the](https://defcon.social/tags/ToxicBBQ) [socials](https://bsky.app/hashtag/ToxicBBQ) for the latest news. 
 
@@ -52,4 +52,4 @@ Want to help plan the next Toxic BBQ? Reach out!
 
 ## Fundraising
 
-Thanks to everyone that ordered shirts last year! 2026 will be spinning up shortly. [Check out the Zazzle for merch and stickers](https://www.zazzle.com/store/toxic_bbq). Easiest way to support the BBQ is cash in the buckets on-site. Anything left is donated to the [EFF](https://www.eff.org).
+Thanks to everyone that ordered shirts last year! 2026 will be spinning up shortly. [Check out the Zazzle for merch and stickers](https://www.zazzle.com/store/toxic_bbq) that can be delivered to your house! Easiest way to support the BBQ is cash in the buckets on-site. Anything left is donated to the [EFF](https://www.eff.org).
