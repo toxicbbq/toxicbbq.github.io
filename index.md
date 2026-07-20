@@ -2,7 +2,7 @@
 title: Toxic BBQ @ DEF CON 34
 feature_image: "/assets/photos/home_banner.png"
 ---
-[T-Shirts for 2026 Now Available!!1!!!](https://donate.toxicbbq.org) -- Celebrating 10 years of Human BBQ; pick up at the con.
+[Looking to dontate to the cookout?](https://donate.toxicbbq.org)
 {: style="font-size: 120%; text-align: center;"}
 
 {% include figure.html image="/assets/logos/jack.png" alt="ToxicBBQ Logo, a DEF CON jolly roger-style Jack. A smiley skull and bones, but with crossed BBQ tools instead of bones." width=300 %}
@@ -52,4 +52,4 @@ Want to help plan the next Toxic BBQ? Reach out!
 
 ## Fundraising
 
-Thanks to everyone that ordered shirts last year! 2026 will be spinning up shortly. [Check out the Zazzle for merch and stickers](https://www.zazzle.com/store/toxic_bbq) that can be delivered to your house! Easiest way to support the BBQ is cash in the buckets on-site. Anything left is donated to the [EFF](https://www.eff.org).
+Thanks to everyone that ordered shirts! Pick them p at the con. [Check out the Zazzle for yearly merch and stickers](https://www.zazzle.com/store/toxic_bbq) that can be delivered to your house! Easiest way to support the BBQ is cash in the buckets on-site. Anything left is donated to the [EFF](https://www.eff.org).
