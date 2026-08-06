@@ -2,6 +2,9 @@
 title: Toxic BBQ @ DEF CON 34
 feature_image: "/assets/photos/home_banner.png"
 ---
+Forecast is up to 110°F! Drink More Water, Stay Safe!
+{: style="font-size: 200%; text-align: center;"}
+
 [Looking to dontate to the cookout?](https://donate.toxicbbq.org)
 {: style="font-size: 120%; text-align: center;"}
 
