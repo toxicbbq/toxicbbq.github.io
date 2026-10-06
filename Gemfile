@@ -8,7 +8,7 @@ gem "jekyll-seo-tag", "~> 2.9.0"
 gem "jekyll-redirect-from", "~> 0.16"
 gem "jekyll-feed", "~> 0.18"
 gem "jekyll-commonmark", "~> 1.4.0"
-gem "jekyll-include-cache", "~> 0.2"
+gem "jekyll-include-cache", "~> 0.3"
 gem "jemoji", "~> 0.12"
 gem "jekyll-remote-theme", "~> 0.6"
 gem 'wdm', "~> 0.2.0", platforms: [:x64_mingw]
