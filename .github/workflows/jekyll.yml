@@ -50,7 +50,10 @@ jobs:
       - name: Install Node.js dependencies
         run: npm install
       - name: Setup ImageMagick
-        uses: mfinelli/setup-imagemagick@v8
+        run: |
+          sudo apt-get update && sudo apt-get install -y libfuse2
+          curl -fL https://github.com -o /usr/local/bin/magick
+          chmod +x /usr/local/bin/magick
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
